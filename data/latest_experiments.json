@@ -1,0 +1,1 @@
+[{"status": "WORKING_IN_PROGRESS", "idCode": "3cc99b37ef6fddfde099ded766ea79c7", "idExecution": "17d0e4883a6260ecd5db78df978d5ba1", "fullname": "qinc/sp.inc", "name": "sp.inc"}, {"fullname": "qinc/sp2.inc", "name": "sp2.inc", "error": {"error": {"status": 400, "message": "An unknown error occurred", "code": "NOT_CREDITS"}}}]

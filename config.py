@@ -1,0 +1,11 @@
+CONFIG_URL = {"url": 'https://quantumexperience.ng.bluemix.net/api'}
+TOKEN = "e74150fda3eabb5747e7aca41fd256161e827d1171fe52f84d32b7d8c80af3aa00315fb9b413c135637e56dfdaba51d9a20b4313511acce81074cd8b03c4c5f4"
+DEVICE = 'real'
+SHOTS = 10000
+PATH = 'qinc' # path of qinc files
+DATA_PATH = 'data' # path of results in json format
+DATA_FILENAME = 'latest_experiments.json' 
+RESULTS_PATH = 'results'
+TIMEOUT = 60
+FILENAME = 'sp.inc'
+MAX_CREDITS = 3
